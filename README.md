@@ -7,6 +7,9 @@
   backdrop-filter: blur(10px);
   color: white; /* optional */
   transition: backdrop-filter 0.3s ease;
+  border: none;
+  border-radius: 15px;
+  padding: 30px;
 }
 
 .liquid-glass:hover{
